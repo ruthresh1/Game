@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: #24272E; 
+}
+
+header {
+    background: whitesmoke;
+    padding: 20px;
+}
+
+header > h1 {
+    color: black;
+    text-align: center;
+    font-family: Asap, sans-serif;
+}
+
+.score-board {
+    margin: 20px auto;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    color: white;
+    font-size: 46px;
+    padding: 15px 20px;
+
+}
